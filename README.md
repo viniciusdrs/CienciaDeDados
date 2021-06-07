@@ -1,3 +1,8 @@
-# Link Para o Colab do Projeto
+# Projeto de Ciência de Dados
 
-[Projeto](https://colab.research.google.com/drive/19zuVW5IuwjQyfE3KRlwwt1iqW8Kt7lAQ)
+Universidade: [Uninove](https://www.uninove.br/)
+Professor: [Jose Storopoli](https://github.com/storopoli)
+
+**
+
+## Resumo do Projeto
