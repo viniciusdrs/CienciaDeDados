@@ -5,7 +5,7 @@ Professor: [Jose Storopoli](https://github.com/storopoli)
 
 Dataset: [Fifa19](https://www.kaggle.com/karangadiya/fifa19)
 
-
+***
 
 ## Resumo do Projeto
 Neste Projeto eu utilizei Notbooks pelo [Google Colab](https://colab.research.google.com/) para fazer as  manipulações de dados usando 
